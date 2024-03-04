@@ -1,7 +1,8 @@
 # Hi, I'm **Jakub Szymborski**!
 I'm an aerospace engineer and PhD candidate.
 Currently working at Polish Academy of Sciences. 
-You can check out my profile @ [Linkedin]([https://www.example.com](https://www.linkedin.com/in/jakub-szymborski-061911124/))
+You can check out my profile @ [Linkedin]([https://www.google.com](https://www.linkedin.com/in/jakub-szymborski-061911124/))
+
 
 In this repo you can find some of the stuff I'm working on in my free time (*mostly training with Python, data analysis, data visualization and so on*). 
 
